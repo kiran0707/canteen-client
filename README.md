@@ -31,3 +31,8 @@ The above module includes development of an android application consisting of a 
 
 *Detailed layout of the app is still need to be discussed and will be updated soon.*
 
+***
+
+###Team Members
+Rahul Kanojia
+Om Prakash Bajiya
